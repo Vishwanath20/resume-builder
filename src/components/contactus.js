@@ -5,7 +5,7 @@ export default function Contact(){
         <div className="container" data-aos="fade-up">
   
           <header className="section-header">
-            <h2>Contact</h2>
+            {/* <h2>Contact US Page Section</h2> */}
             <p>Contact Us</p>
           </header>
   

@@ -7,7 +7,7 @@ import Header from './components/header';
 import Footer from './components/footer';
 import Home from './pages/home';
 import About from './pages/about';
-
+import ContactUs from './components/contactus'
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home/>}  />
         <Route path="/about" element={<About/>} />
+        <Route path="/ContactUs" element={<ContactUs/>} />
       </Routes>
      
     <Footer/>

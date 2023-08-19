@@ -62,7 +62,7 @@ export default function Header(){
                   </ul>
                 </li> */}
       
-                <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
+                <li><Link to="/ContactUs" className="">Contact</Link></li>
                 <li> <Link to="/about" className="">Register</Link></li>
                 <li> <Link to="/about" className="">Login</Link></li>
              
