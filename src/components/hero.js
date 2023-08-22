@@ -5,7 +5,7 @@ export default function Hero(){
         <div className="container">
             <div className="row">
                 <div className="col-lg-6 d-flex flex-column justify-content-center">
-                    <h1 data-aos="fade-up"> We offer modern solutions for growing your business hero111111</h1>
+                    <h1 data-aos="fade-up"> We offer modern solutions for growing your business hero1111112222</h1>
                     <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented designers making websites with Bootstrap</h2>
                     <div data-aos="fade-up" data-aos-delay="600">
                         <div className="text-center text-lg-start">
